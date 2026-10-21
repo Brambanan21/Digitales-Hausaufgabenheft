@@ -1,6 +1,6 @@
 // Service Worker: macht die App offline nutzbar.
 // Bei jeder Änderung an den App-Dateien die Versionsnummer erhöhen.
-const VERSION = "heft-v2";
+const VERSION = "heft-v3";
 const FB = "https://www.gstatic.com/firebasejs/10.14.1/";
 const SHELL = [
   "./", "./index.html", "./manifest.webmanifest", "./firebase-config.js",
